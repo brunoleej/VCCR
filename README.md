@@ -16,9 +16,10 @@ git clone --recursive https://github.com/brunoleej/VCCR.git
 3. Create a Anaconda environment and run `requirement.txt` file.
 ```
 cd VCCR
-conda env create -n VCCR python=3.8.18
-conda activate VCCR
-pip install -r requirement.txt
+conda env create -f venv_setup.yml
+conda activate vccr
+pip install -e viskit
+pip install -e .
 ```
 
 ## Usage
