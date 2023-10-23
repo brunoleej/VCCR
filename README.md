@@ -8,7 +8,7 @@ We are currently working on below setup.
 - Carla Simulator: `latest`
 
 ## Installation
-1. Install the Carla Simulator in [CARLA official installation homepage](https://carla.readthedocs.io/en/latest/build_linux/).
+1. Install the Carla Simulator in [CARLA official installation](https://carla.readthedocs.io/en/latest/build_linux/).
 2. Clone `VCCR` repository.
 ```
 git clone --recursive https://github.com/brunoleej/VCCR.git
