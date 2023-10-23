@@ -12,7 +12,7 @@ setup(
     url="https://brunoleej.github.io/portfolio/portfolio-3/",
     entry_points={
         "console_scripts": (
-            "vccr=train_agent:main",
+            "vccr=vccr.train_agent:main",
             "viskit.scripts.console_scripts:main"
         )
     },
