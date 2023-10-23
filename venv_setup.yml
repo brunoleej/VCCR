@@ -1,0 +1,13 @@
+name: vccr
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.8.18
+  - pip>=23.3
+  - conda>=4.10.3
+
+pip:
+  - -r requirements.txt
