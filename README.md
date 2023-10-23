@@ -33,13 +33,20 @@ For now Wandb logging is automatically running. If you don't mind you can commen
 ## Comparing to VCCR
 
 
-## Reference
+## References
 ```
 @inproceedings{janner2019mbpo,
   author = {Michael Janner and Justin Fu and Marvin Zhang and Sergey Levine},
   title = {When to Trust Your Model: Model-Based Policy Optimization},
   booktitle = {Advances in Neural Information Processing Systems},
   year = {2019}
+}
+
+@article{causal-rl-survey,
+  title={Causal Reinforcement Learning: A Survey},
+  author={Deng, Zhihong and Jiang, Jing and Long, Guodong and Zhang, Chengqi},
+  journal={arXiv preprint arXiv:2307.01452},
+  year={2023}
 }
 ```
 
