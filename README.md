@@ -27,7 +27,7 @@ Currently only running locally is supported.
 ## New environments
 To run on a different environment, you can modify the provided template. 
 
-## Logging
+- Logging
 For now Wandb logging is automatically running. If you don't mind you can comment processing the wandb logging line
 
 ## Hyperparameters
