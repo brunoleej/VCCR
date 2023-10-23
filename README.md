@@ -1,7 +1,7 @@
-## Visual Navigation Urgent Circumstances via Counterfactual Reasoning in CARLA Simulator (VCCR)
+# Visual Navigation Urgent Circumstances via Counterfactual Reasoning in CARLA Simulator (VCCR)
 ---
 
-### Installation
+## Installation
 ---
 1. Install Carla Simulator
 2. Clone `VCCR` repository.
