@@ -5,6 +5,13 @@
 ---
 1. Install Carla Simulator
 2. Clone `VCCR` repository.
-```python
+```
 git clone --recursive https://github.com/brunoleej/VCCR.git
+```
+3. Create a Anaconda environment and install `VCCR` packages.
+```
+cd VCCR
+conda env create -f environment/gpu-env.yml
+conda activate VCCR
+pip install -e .
 ```
