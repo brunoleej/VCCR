@@ -2,7 +2,7 @@
 This project is submitted on Robot Artificial Intelligence Class.
 
 ## Running Environment
-We are currently working on `Ubuntu 20.04` version and carla is `latest` version.
+We are currently working on `Ubuntu 20.04` version and CARLA simulator is `latest` version.
 
 ## Installation
 1. Install the Carla Simulator in [CARLA official installation homepage](https://carla.readthedocs.io/en/latest/build_linux/).
