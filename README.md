@@ -44,4 +44,4 @@ To run on a different environment, you can modify the provided template.
 ```
 
 ## Acknowledgements
-The underlying Deep Deterministic Policy Gradient (DDPG), Soft-Actor-Critic (SAC), Twin-Delayed Deep Deterministic Policy Gradient (TD3) implementation in Experiment section comes from stable-baselines3[https://github.com/DLR-RM/stable-baselines3] codebase.
+The underlying Deep Deterministic Policy Gradient (DDPG), Soft-Actor-Critic (SAC), Twin-Delayed Deep Deterministic Policy Gradient (TD3) implementation in Experiment section comes from [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) codebase.
