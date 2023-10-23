@@ -1,5 +1,5 @@
 # Visual Navigation Urgent Circumstances via Counterfactual Reasoning in CARLA Simulator (VCCR)
----
+This project is submitted on Robot Artificial Intelligence Class.
 
 ## Installation
 1. Install Carla Simulator
