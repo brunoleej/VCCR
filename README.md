@@ -24,13 +24,13 @@ Configure files can be found in `examples/config/`.
 VCCR run_local examples.development --config=examples.config.
 ```
 Currently only running locally is supported.
-## New environments
+### New environments
 To run on a different environment, you can modify the provided template. 
 
-- Logging
+### Logging
 For now Wandb logging is automatically running. If you don't mind you can comment processing the wandb logging line
 
-## Hyperparameters
+### Hyperparameters
 
 
 ## Comparing to VCCR
