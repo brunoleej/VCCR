@@ -16,9 +16,9 @@ git clone --recursive https://github.com/brunoleej/VCCR.git
 3. Create a Anaconda environment and run `requirement.txt` file.
 ```
 cd VCCR
-conda env create -n 
+conda env create -n VCCR python=3.8.18
 conda activate VCCR
-pip install -e .
+pip install -r requirement.txt
 ```
 
 ## Usage
