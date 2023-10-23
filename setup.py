@@ -13,7 +13,7 @@ setup(
     entry_points={
         "console_scripts": (
             "vccr=vccr.train_agent:main",
-            "viskit.scripts.console_scripts:main"
+            "viskits=vccr.scripts.console_scripts:main"
         )
     },
     requires=(),
