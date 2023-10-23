@@ -17,7 +17,6 @@ pip install -e .
 ```
 
 ## Usuage
----
 Configure files can be found in `examples/config/`.
 ```
 VCCR run_local examples.development --config=examples.config.
