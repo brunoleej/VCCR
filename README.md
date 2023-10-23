@@ -7,7 +7,7 @@ This project is submitted on Robot Artificial Intelligence Class.
 ```
 git clone --recursive https://github.com/brunoleej/VCCR.git
 ```
-3. Create a Anaconda environment and install `VCCR` packages.
+3. Create a Anaconda environment and install `setup.py` packages.
 ```
 cd VCCR
 conda env create -f environment/gpu-env.yml
