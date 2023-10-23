@@ -2,7 +2,10 @@
 This project is submitted on Robot Artificial Intelligence Class.
 
 ## Running Environment
-We are currently working on `Ubuntu 20.04` version and CARLA simulator is `latest` version.
+We are currently working on below setup.
+- Ubuntu: `Ubuntu 20.04`
+- Python: `3.8.18`
+- Carla Simulator: `latest`
 
 ## Installation
 1. Install the Carla Simulator in [CARLA official installation homepage](https://carla.readthedocs.io/en/latest/build_linux/).
@@ -10,10 +13,10 @@ We are currently working on `Ubuntu 20.04` version and CARLA simulator is `lates
 ```
 git clone --recursive https://github.com/brunoleej/VCCR.git
 ```
-3. Create a Anaconda environment and run `setup.py` file.
+3. Create a Anaconda environment and run `requirement.txt` file.
 ```
 cd VCCR
-conda env create -f environment/gpu-env.yml
+conda env create -n 
 conda activate VCCR
 pip install -e .
 ```
