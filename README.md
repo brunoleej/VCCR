@@ -2,7 +2,6 @@
 ---
 
 ## Installation
----
 1. Install Carla Simulator
 2. Clone `VCCR` repository.
 ```
@@ -26,16 +25,23 @@ Currently only running locally is supported.
 To run on a different environment, you can modify the provided template. 
 
 ## Logging
----
+
 
 ## Hyperparameters
----
+
 
 ## Comparing to VCCR
----
+
 
 ## Reference
----
+```
+@inproceedings{janner2019mbpo,
+  author = {Michael Janner and Justin Fu and Marvin Zhang and Sergey Levine},
+  title = {When to Trust Your Model: Model-Based Policy Optimization},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2019}
+}
+```
 
 ## Acknowledgements
----
+The underlying Deep Deterministic Policy Gradient (DDPG), Soft-Actor-Critic (SAC), Twin-Delayed Deep Deterministic Policy Gradient (TD3) implementation in Experiment section comes from stable-baselines3[https://github.com/DLR-RM/stable-baselines3] codebase.
