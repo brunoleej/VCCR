@@ -33,8 +33,14 @@ pip install -e .
 
    - To run our baseline algorithm, the executable files at `vccr/MOPO/train_mopo_agent.ipynb`, and the expert dataset at `vccr/MOPO/expert_dataset.pickle`.
 
-3. Train Autonomous Driving (AD) agent in CARLA simulator.
+2. Train Autonomous Driving (AD) agent in CARLA simulator.
 
+3. Train Autonomous Navigation
+   - We compared three Model-free Reinforcement Learning (MFRL) algorithms: Deep Deterministic Policy Gradient (DDPG), Twin-delayed Deep Deterministic Policy Gradient (TD3), and Soft-Actor-Critic (SAC).
+   - To train three MFRL algorithms, you can run `environment/sb_train.py`
+     ```
+     python environment/sb_train.py
+     ```
 
 
 ### New environments
