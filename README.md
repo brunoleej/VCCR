@@ -1,6 +1,10 @@
 # Visual Navigation under Urgent Circumstances via Counterfactual Reasoning in CARLA Simulator (VCCR)
 This project is submitted on Robot Artificial Intelligence Class.
 
+## Baseline model
+- Model-based Offline Policy Optimization
+- Causal Inference
+
 ## Running Environment
 We are currently working on below setup.
 - Ubuntu: `Ubuntu 20.04`
@@ -23,6 +27,12 @@ pip install -e .
 ```
 
 ## Usage
+To run our baseline algorithm, execute files can be found in `vccr/MOPO/train_mopo.py`
+```
+VCCR train_mopo.py --config=cfg.env.yaml
+```
+
+
 Configure files can be found in `examples/config/`.
 ```
 VCCR run_local examples.development --config=examples.config.
