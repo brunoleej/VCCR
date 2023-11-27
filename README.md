@@ -29,9 +29,8 @@ pip install -e .
 ## Usage
 1. Baseline Model-based offline Policy Optimization (MOPO)
 
-   
-Currently only running locally is supported.
-To run our baseline algorithm, the executable files at `vccr/MOPO/train_mopo_agent.ipynb`, and the expert dataset at `vccr/MOPO/expert_dataset.pickle`.
+   Currently only running locally is supported.
+   To run our baseline algorithm, the executable files at `vccr/MOPO/train_mopo_agent.ipynb`, and the expert dataset at `vccr/MOPO/expert_dataset.pickle`.
 
 3. Train Autonomous Driving (AD) agent in CARLA simulator.
 
