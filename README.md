@@ -27,22 +27,15 @@ pip install -e .
 ```
 
 ## Usage
-To run our baseline algorithm, execute files can be found in `vccr/MOPO/train_mopo.py`
-```
-VCCR train_mopo.py --config=cfg.env.yaml
-```
 Currently only running locally is supported.
+To run our baseline algorithm, the executable files at `vccr/MOPO/train_mopo_agent.ipynb`, and the expert dataset at `vccr/MOPO/expert_dataset.pickle`.
+
+
 ### New environments
 To run on a different environment, you can modify the provided template. 
 
 ### Logging
-For now Wandb logging is automatically running. If you don't mind you can comment processing the wandb logging line
-
-### Hyperparameters
-
-
-## Comparing to VCCR
-
+For now Wandb logging is automatically running. If you don't mind you can comment processing the wandb logging line.
 
 ## References
 ```
