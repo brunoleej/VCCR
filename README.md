@@ -45,12 +45,19 @@ For now Wandb logging is automatically running. If you don't mind you can commen
 
 ## References
 ```
-@inproceedings{janner2019mbpo,
-  author = {Michael Janner and Justin Fu and Marvin Zhang and Sergey Levine},
-  title = {When to Trust Your Model: Model-Based Policy Optimization},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year = {2019}
-}
+@article{MOPO,
+         author = {Tianhe Yu and Garrett Thomas and Lantao Yu and Stefano Ermon and James Zou and Sergey Levine and Chelsea Finn and Tengyu Ma},
+         title = {{MOPO:} Model-based Offline Policy Optimization},
+         journal = {CoRR},
+         volume = {abs/2005.13239},
+         year = {2020},
+         url = {https://arxiv.org/abs/2005.13239},
+         eprinttype = {arXiv},
+         eprint = {2005.13239},
+         timestamp = {Sun, 08 Aug 2021 16:40:51 +0200},
+         biburl = {https://dblp.org/rec/journals/corr/abs-2005-13239.bib},
+         bibsource = {dblp computer science bibliography, https://dblp.org}
+         }
 
 @article{causal-rl-survey,
   title={Causal Reinforcement Learning: A Survey},
