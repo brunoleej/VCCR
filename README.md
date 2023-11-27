@@ -2,7 +2,7 @@
 This project is submitted on Robot Artificial Intelligence Class.
 
 ## Baseline model
-- Model-based Offline Policy Optimization
+- Model-based Offline Policy Optimization (MOPO)
 - Causal Inference
 
 ## Running Environment
