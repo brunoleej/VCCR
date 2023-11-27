@@ -36,7 +36,7 @@ pip install -e .
 2. Train Autonomous Driving (AD) agent in CARLA simulator.
 
 3. Train Autonomous Navigation
-   - We compared three Model-free Reinforcement Learning (MFRL) algorithms: Deep Deterministic Policy Gradient (DDPG), Twin-delayed Deep Deterministic Policy Gradient (TD3), and Soft-Actor-Critic (SAC).
+   - We compared the autonomous navigation ability of VCCR against three model-free reinforcement learning (MFRL) algorithms: Deep Deterministic Policy Gradient (DDPG), Twin-delayed Deep Deterministic Policy Gradient (TD3), and Soft-Actor-Critic (SAC).
    - To train three MFRL algorithms, you can run `environment/sb_train.py`
      ```
      python environment/sb_train.py
