@@ -46,11 +46,11 @@ For now Wandb logging is automatically running. If you don't mind you can commen
 ## References
 ```
 @article{MOPO,
-         title = {{MOPO:} Model-based Offline Policy Optimization},
-         author = {Tianhe Yu and Garrett Thomas and Lantao Yu and Stefano Ermon and James Zou and Sergey Levine and Chelsea Finn and Tengyu Ma},
-         journal = {CoRR},
-         year = {2020},
-         }
+   title = {{MOPO:} Model-based Offline Policy Optimization},
+   author = {Tianhe Yu and Garrett Thomas and Lantao Yu and Stefano Ermon and James Zou and Sergey Levine and Chelsea Finn and Tengyu Ma},
+   journal = {CoRR},
+   year = {2020},
+}
 
 @article{causal-rl-survey,
   title={Causal Reinforcement Learning: A Survey},
